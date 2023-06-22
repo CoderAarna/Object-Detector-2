@@ -1,0 +1,33 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    background-color: blueviolet;
+    width: fit-content;
+}
+a{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding-right: 130px;
+    padding-left: 130px;
+    margin-bottom: 80px;
+    font-size: 24px;
+    font-weight: bold;
+    width: 100%;
+}
+a:hover{
+    color: blueviolet;
+}

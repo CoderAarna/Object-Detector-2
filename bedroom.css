@@ -1,0 +1,33 @@
+body{
+    background-size: contain;
+    background-position: center;
+}
+h1{
+    width: fit-content;  
+}
+.heading
+{
+font-size: 23px;
+width: 58%;
+margin: 0px;
+}
+#back_btn{
+    margin-right: 0px;
+    position: absolute;
+    right: 50px;
+    top: 20px;
+    font-size: 20px;
+    width: 7%;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    box-shadow: 5px 5px 5px grey;
+}
+h3{
+    box-shadow: 2px 2px 2px grey;
+}
+canvas{
+    box-shadow: 1px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 60px;
+}
